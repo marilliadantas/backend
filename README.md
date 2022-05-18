@@ -1,3 +1,2 @@
 # backend
-Projeto com sql
-Trabalhando com as minhas primeiras tabelas. 
+Projeto com sql, trabalhando com as minhas primeiras tabelas. 
